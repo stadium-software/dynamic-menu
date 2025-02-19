@@ -2,7 +2,7 @@
 
 Create menu items from data
 
-Video / screenshot
+https://github.com/user-attachments/assets/75a609ce-e24d-424e-b810-baa006d7cf51
 
 # Version
 Initial 1.0
